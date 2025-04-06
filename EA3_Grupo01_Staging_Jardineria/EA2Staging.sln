@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "EA2Staging", "EA2Staging\EA2Staging.dtproj", "{E840CD81-432E-2518-FCB4-04A37AF02E27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E840CD81-432E-2518-FCB4-04A37AF02E27}.Development|Default.ActiveCfg = Development
+		{E840CD81-432E-2518-FCB4-04A37AF02E27}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7172EAF-DE47-4482-9473-CE45E63B8583}
+	EndGlobalSection
+EndGlobal
